@@ -1,0 +1,138 @@
+.home{
+    background-color:#F2EFE7;
+    padding: 0%;
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: large;
+}
+
+.line{
+    font-size: medium;
+    font-style: italic;
+}
+
+.buttons{
+    text-align:center;
+    align-items: baseline;
+    height: 40vh;
+    justify-content: baseline;
+    background-color: #f4ebd5;
+}
+
+.box{
+    height: 50vh;
+}
+
+#click{
+    background-color: #9ACBD0;
+    border: none;
+    width: 5rem;
+    height: 1.5rem;
+    border-radius: 0.5rem;
+    font: weight 800;
+    text-emphasis-color: grey;
+}
+
+#skls{
+    background-color: #9ACBD0;
+    border: none;
+    width: 5rem;
+    height: 1.5rem;
+    border-radius: 0.5rem;
+    font: weight 800;
+    text-emphasis-color: grey;
+}
+
+#cnt{
+    background-color: #9ACBD0;
+    border: none;
+    width: 5rem;
+    height: 1.5rem;
+    border-radius: 0.5rem;
+    font: weight 800;
+    text-emphasis-color: grey;
+}
+
+.rtn{
+    background-color: #9ACBD0;
+    border: none;
+    width: 7rem;
+    height: 1.5rem;
+    border-radius: 0.5rem;
+    font-weight:800;
+    text-emphasis-color: grey;
+}
+
+.bio {
+    background-color: #F2EFE7;
+    padding: 40px;
+    height: auto; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.bio-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.text {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+    background-color: #f4ebd5;
+    font-size: medium;
+    font-style: italic;
+    
+}
+
+.image {
+    flex: 1;
+    text-align: right;
+}
+
+.image img {
+    max-width: 60%;
+    height: 0.5%;
+    border-radius: 12px;
+}
+
+.list{
+    text-align: left;
+}
+
+.middlecont{
+    flex: 1;
+    align-items: center;
+    text-align: center;
+    background-color: #f4ebd5;
+    font-size: medium;
+    font-style: italic;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}
+
+.skills{
+    flex:1;
+    padding: 100%;
+    background-color: #F2EFE7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;     
+    text-align: left;
+    padding: 20px;
+    
+}
+
